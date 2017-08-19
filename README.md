@@ -1,6 +1,7 @@
 #LALA
 <<<<<<< HEAD
 ##aadsadqsaa
+dsa
 =======
-##dasasdaaa
+dsad##dasasdaaa
 >>>>>>> changes
